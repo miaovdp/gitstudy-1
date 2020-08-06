@@ -1,4 +1,6 @@
 hello world
 hi everybody
 byebye!!!
-A还在这里傻呵呵的开发，ashdsd hasjdh asdas 
+//A还在这里傻呵呵的开发，ashdsd hasjdh asdas  
+//上面的一行感觉有BUG，我建议的代码在下面
+sjkdhsk hjasdhjasd ahsdhjas 
